@@ -6,5 +6,6 @@ public class HolaMundo {
 			System.out.println(i);
 		}
 		System.out.println("FUNCIONA EL FETCH");
+		System.out.println("Ya le pille el truco a esto");
 	}
 }
